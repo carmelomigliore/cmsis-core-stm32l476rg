@@ -1,0 +1,20 @@
+{
+  "name": "cmsis-core-stm32l476rg",
+  "version": "0.0.0",
+  "description": "CMSIS Core module for stm32l476rg microcontrollers",
+  "keywords": [],
+  "author": "Carmelo Migliore <car.miglio@gmail.com>",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/BSD-3-Clause",
+      "type": "BSD-3-Clause"
+    }
+  ],
+  "extraIncludes": [
+    "cmsis-core-stm32l476rg"
+  ],
+  "dependencies": {
+    "cmsis-core": "*"
+  },
+  "targetDependencies": {}
+}
